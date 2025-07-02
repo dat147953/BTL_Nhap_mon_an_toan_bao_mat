@@ -1,1 +1,1 @@
-# BTL_Nhap_mon_an_toan_bao_mat
+# GỬI_BỆNH_ÁN_VỚI_XÁC_THỰC_KÉP
